@@ -4,4 +4,4 @@
 *.iws
 
 .gradle/
-app/build/
+build/
